@@ -23,9 +23,7 @@ Ojanck's Simple Audio Manager
 | Addressables_BGM | `string`      | Returns the BGM Addressable Key Property          |
 | Addressables_SFX | `string`      | Returns the SFX Addressable Key Property          |
 | IsDownloadingBGM | `bool`        | Returns the true if in process of downloading BGM |
-| IsDownloadingSFX | `bool`        | Returns the true if in                            |
-|                  |               | process of downloading                            |
-|                  |               | SFX                                               |
+| IsDownloadingSFX | `bool`        | Returns the true if in process of downloading SFX |
 
 #### Methods
 | Method                   | Return Type   | Parameters    | Description                                                  |
