@@ -1,0 +1,16 @@
+{
+    "name": "Ojanck.AudioSetup.EditorScript",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2d5d3a8f442b9bc48bc03ed7e723c3d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

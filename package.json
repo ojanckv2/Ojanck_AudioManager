@@ -1,0 +1,23 @@
+{
+    "name": "com.ojanck.audiomanager",
+    "version": "1.0.0",
+    "displayName": "Simple Audio Manager",
+    "description": "A simple Audio Manager that utilize Unity's Addressables and Resources for loading and downloading the Audios.",
+    "unity": "2021.3",
+    "author": {
+      "name": "Izzan A. Fu'ad",
+      "email": "izzanfuad@gmail.com",
+      "url": "https://izzanfuad3.wixsite.com/website"
+    },
+    "dependencies": {
+      "com.unity.addressables": "1.22.3"
+    },
+    "samples": [
+      {
+        "displayName": "Examples",
+        "description": "An example scene featuring the use of AudioObject and its power variable.\nThe example is using audios from [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116) by Dustyroom and [Casual Game Music: Happy, Bouncy, Social](https://assetstore.unity.com/packages/audio/music/electronic/casual-game-music-happy-bouncy-social-214104) by Intersonic Sound.",
+        "path": "Samples/Examples"
+      }
+    ]
+  }
+  

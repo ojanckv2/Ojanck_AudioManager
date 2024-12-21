@@ -1,0 +1,7 @@
+{
+	"name": "Ojanck.AudioSetup",
+	"references": [
+	  "Unity.Addressables",
+	  "Unity.ResourceManager"
+	]
+}
