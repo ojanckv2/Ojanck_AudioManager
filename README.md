@@ -46,3 +46,8 @@ This API provides functionality for Ojanck - Audio Manager
     - P.S. Don't forget to fill the AudioObject parameters before you play them 
 
 ---
+
+## API Documentation
+API documentation can be read [here](https://github.com/ojanckv2/Ojanck_AudioManager/tree/main/Runtime/Scripts/API_Documentation.md)
+
+---
