@@ -92,9 +92,9 @@ namespace Ojanck.AudioSetup.EditorScript
                 audioManager.ResourcesLoadAudios();
                 
                 if (EditorApplication.isPlaying)
-                    EditorUtility.SetDirty(audioManager);
-                else
                     audioManager.RefreshDictionaries();
+                else
+                    EditorUtility.SetDirty(audioManager);
             }
 
             EditorGUILayout.Space();
