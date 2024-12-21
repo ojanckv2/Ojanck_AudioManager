@@ -16,7 +16,7 @@
       {
         "displayName": "Examples",
         "description": "An example scene featuring the use of AudioObject and its power variable.\nThe example is using audios from [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116) by Dustyroom and [Casual Game Music: Happy, Bouncy, Social](https://assetstore.unity.com/packages/audio/music/electronic/casual-game-music-happy-bouncy-social-214104) by Intersonic Sound.",
-        "path": "Samples/Examples"
+        "path": "Samples~/Examples"
       }
     ]
   }
