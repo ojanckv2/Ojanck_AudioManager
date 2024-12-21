@@ -90,6 +90,11 @@ namespace Ojanck.AudioSetup.EditorScript
 
             if (GUILayout.Button("Get Audio Resources")) {
                 audioManager.ResourcesLoadAudios();
+                
+                if (EditorApplication.isPlaying)
+                    EditorUtility.SetDirty(audioManager);
+                else
+                    audioManager.RefreshDictionaries();
             }
 
             EditorGUILayout.Space();

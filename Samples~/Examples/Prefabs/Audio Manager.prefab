@@ -183,7 +183,7 @@ MonoBehaviour:
   resourcesLoadPath: Audios
   audioResourcesBGM: []
   audioResourcesSFX: []
-  addressablesFolderPath: Assets/Samples/com.ojanck.audiomanager/1.0.0/Examples/Addressables/Audios
+  addressablesFolderPath: Assets/Samples/Simple Audio Manager/1.0.0/Examples/Addressables/Audios
   audioNamesBGM: []
   audioNamesSFX: []
   audioAddressablesBGM: []
