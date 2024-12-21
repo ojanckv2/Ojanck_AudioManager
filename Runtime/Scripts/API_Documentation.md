@@ -9,9 +9,6 @@ This API provides functionality for Ojanck - Audio Manager
 1. [Classes](#classes)
    - [AudioManager](#AudioManager)
    - [AudioObject](#AudioObject)
-2. [Methods](#methods)
-   - [MethodName1](#methodname1)
-   - [MethodName2](#methodname2)
 
 ---
 
@@ -24,7 +21,7 @@ Ojanck's Simple Audio Manager
 | Property         | Type          | Description              |
 |------------------|---------------|--------------------------|
 | Addressables_BGM | `string`      | Returns the BGM          |
-|                  |               | Addressable Key Property |
+                                     Addressable Key Property
 | Addressables_SFX | `string`      | Returns the SFX          |
 |                  |               | Addressable Key Property |
 | IsDownloadingBGM | `bool`        | Returns the true if in   |
